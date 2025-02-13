@@ -7,7 +7,7 @@
 
 - 📫 Meu perfil do LinkedIn: **https://www.linkedin.com/in/gabriel-ferreira-24b074324/**
 
-- ⚡ Fun fact **Eu amo biologia**
+- ⚡ Fun fact: **eu gosto demais de biologia!**
 
 <p align="left">
 </p>

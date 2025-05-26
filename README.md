@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel</h1>
 <h3 align="center">Um desenvolvedor em formação</h3>
 
-- 🔭 Atualmente eu estou estudando **Ciências da computação**
+- 🔭 Atualmente eu estou cursando **Ciências da computação**
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **Java e Desenvolvimento Web**
 
 - 📫 Meu perfil do LinkedIn: **https://www.linkedin.com/in/gabriel-ferreira-24b074324/**
 
-- ⚡ Fun fact: **eu gosto demais de biologia!**
+- ⚡ Fun fact: **eu gosto de biologia!**
 
 <p align="left">
 </p>

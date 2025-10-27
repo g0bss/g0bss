@@ -1,17 +1,32 @@
-<h1 align="center">Olá 👋, eu sou o Gabriel</h1>
-<h3 align="center">Um desenvolvedor em formação</h3>
+### Gabriel Ferreira
+*Computer Science Student | Aspiring Data & Security Specialist*
 
-- 🔭 Atualmente eu estou cursando **Ciências da computação**
+> I believe great software is defined by two things: the **intelligence** it draws from data and the **resilience** with which it protects it. I'm building my career where these two disciplines meet.
 
-- 🌱 Atualmente estou aprendendo **Java e Desenvolvimento Web**
+My primary focus is on developing a deep understanding of the full data lifecycle, from its architecture to its protection.
 
-- 📫 Meu perfil do LinkedIn: **https://www.linkedin.com/in/gabriel-ferreira-24b074324/**
+---
 
-- ⚡ Fun fact: **eu gosto de biologia!**
+#### 🛠️ My Technical Toolkit
 
-<p align="left">
-</p>
+My skills are clustered around this "Data + Security" focus:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **Data & Security** | `Cybersecurity Fundamentals` `MySQL` `SQL Server` `Computer Networks` |
+| **Development** | `Python` `C#` `Java` `Object-Oriented Programming (OOP)` |
+| **Web & Planning** | `HTML5` `CSS3` `Requirements Engineering` |
 
+---
+
+🌱 I'm always learning and actively seeking opportunities to help build, analyze, and secure data-driven systems.
+
+### My Arsenal (Tools & Tech)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
